@@ -1,0 +1,24 @@
+{
+  "name": "psnodeteststra",
+  "version": "1.0.0",
+  "description": "```\r npm init\r ```\r set:\r ```\r test command: node_modules/mocha/bin/mocha\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": " node node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rengokantai/psnodeteststra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rengokantai/psnodeteststra/issues"
+  },
+  "homepage": "https://github.com/rengokantai/psnodeteststra#readme",
+  "dependencies": {
+    "mocha": "^2.4.5",
+    "moment": "^2.12.0",
+    "sinon": "^1.17.3"
+  }
+}
